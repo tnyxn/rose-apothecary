@@ -2,6 +2,8 @@
 
 Personal project building e-commerce website for Rose Apothecary, based on the store featured in Schitt's Creek, a Canadian TV show created by Dan and Eugene Levy.
 
+Built on knowledge gained from Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL) course, taught by Andrei Neagoie and Yihua Zhang.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
