@@ -9,21 +9,21 @@ class Directory extends Component {
     sections: [
       {
         title: 'skincare',
-        imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+        imageUrl: 'images/skincare.jpg',
         id: 1,
-        linkUrl: 'shop/hats',
+        linkUrl: 'shop/skincare',
       },
       {
         title: 'bodycare',
-        imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
+        imageUrl: 'images/bodycare.jpg',
         id: 2,
-        linkUrl: 'shop/jackets',
+        linkUrl: 'shop/bodycare',
       },
       {
-        title: 'fragrances',
-        imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
+        title: 'fragrance',
+        imageUrl: 'images/fragrance.jpg',
         id: 3,
-        linkUrl: 'shop/sneakers',
+        linkUrl: 'shop/fragrance',
       },
       {
         title: "women's",
