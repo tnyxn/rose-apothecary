@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Rose Apothecary
+
+Personal project building e-commerce website for Rose Apothecary, based on the store featured in Schitt's Creek, a Canadian TV show created by Dan and Eugene Levy.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
