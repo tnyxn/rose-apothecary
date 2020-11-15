@@ -8,36 +8,36 @@ class Directory extends Component {
   state = {
     sections: [
       {
-        title: 'skincare',
-        imageUrl: 'images/skincare.jpg',
-        id: 1,
-        linkUrl: 'shop/skincare',
-      },
-      {
         title: 'bodycare',
         imageUrl: 'images/bodycare.jpg',
-        id: 2,
+        id: 1,
         linkUrl: 'shop/bodycare',
       },
       {
         title: 'fragrance',
         imageUrl: 'images/fragrance.jpg',
-        id: 3,
+        id: 2,
         linkUrl: 'shop/fragrance',
       },
       {
-        title: "women's",
-        imageUrl: 'images/alexis-rose.webp',
-        size: 'large',
-        id: 4,
-        linkUrl: 'shop/womens',
+        title: 'apparel',
+        imageUrl: 'images/apparel.jpg',
+        id: 3,
+        linkUrl: 'shop/apparel',
       },
       {
-        title: "men's",
-        imageUrl: 'images/david-rose.webp',
+        title: 'gifts',
+        imageUrl: 'images/alexis-rose.jpg',
+        id: 4,
         size: 'large',
+        linkUrl: 'shop/gifts',
+      },
+      {
+        title: 'goods',
+        imageUrl: 'images/david-rose.jpg',
         id: 5,
-        linkUrl: 'shop/mens',
+        size: 'large',
+        linkUrl: 'shop/goods',
       },
     ],
   };
